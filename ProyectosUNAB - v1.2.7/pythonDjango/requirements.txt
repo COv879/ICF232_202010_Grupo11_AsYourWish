@@ -1,4 +1,0 @@
-django
-django-filter==2.4.0
-gunicorn
-djangorestframework
