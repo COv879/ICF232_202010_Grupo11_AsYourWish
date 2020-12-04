@@ -1,0 +1,7 @@
+django
+djangorestframework
+gunicorn
+coverage
+django-cors-headers
+django-filter
+mysql-connector-python
